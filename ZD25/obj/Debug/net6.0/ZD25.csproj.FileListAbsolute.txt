@@ -1,0 +1,15 @@
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.csproj.AssemblyReference.cache
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.AssemblyInfoInputs.cache
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.AssemblyInfo.cs
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.csproj.CoreCompileInputs.cache
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\bin\Debug\net6.0\ZD25.exe
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\bin\Debug\net6.0\ZD25.deps.json
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\bin\Debug\net6.0\ZD25.runtimeconfig.json
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\bin\Debug\net6.0\ZD25.dll
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\bin\Debug\net6.0\ZD25.pdb
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.dll
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\refint\ZD25.dll
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.pdb
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ZD25.genruntimeconfig.cache
+D:\GeekBrains\DZ\DZ_4\Sem4_DZ\ZD25\obj\Debug\net6.0\ref\ZD25.dll
